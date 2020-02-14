@@ -1,2 +1,2 @@
 # Trading-Dashboard
-Algorithmic Trading
+Algorithmic Trading using IEX.
